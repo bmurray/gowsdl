@@ -1,1 +1,3 @@
-module github.com/hooklift/gowsdl
+module github.com/bmurray/gowsdl
+
+go 1.13
